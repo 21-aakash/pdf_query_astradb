@@ -5,3 +5,4 @@ langchain-groq
 cassio
 python-dotenv
 langchain
+datasets
