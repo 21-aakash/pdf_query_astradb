@@ -6,3 +6,4 @@ cassio
 python-dotenv
 langchain
 datasets
+cassandra-driver
